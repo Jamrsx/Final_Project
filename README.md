@@ -12,10 +12,10 @@ Apache 2.4.63 (Win64 version recommended for better performance)
 **To check your environment:**
 
 _Check PHP Version:_
-Run php -v in your terminal.
+Run **php -v** in your terminal.
 
 _Check Apache Version:_
-Run httpd -v in your terminal.
+Run **httpd -v** in your terminal.
 
 
 ** Download Links:**
