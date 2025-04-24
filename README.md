@@ -30,6 +30,8 @@ https://www.apachelounge.com/download/vs17/binaries/httpd-2.4.63-250207-win32-vs
 https://windows.php.net/downloads/releases/php-8.3.20-Win32-vs16-x64.zip
 
 _Where to add the Downloaded Apache and Latest PHP?_
+
 For Apache: C:\laragon\bin\apache **(Copy & Paste)**
+
 For Php: C:\laragon\bin\php **(Copy & Paste)**
 
