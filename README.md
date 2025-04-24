@@ -2,10 +2,12 @@
 I’ve added the ability to add, update, and delete instructor data in my Laravel 12 project. You can explore and test the code by cloning the repository:
 Final_Project Repository
 
+
 **Requirements:**
 To run the backend, make sure your environment is set up as follows:
 PHP 8.3+
 Apache 2.4.63 (Win64 version recommended for better performance)
+
 
 **To check your environment:**
 
@@ -14,6 +16,7 @@ Run php -v in your terminal.
 
 _Check Apache Version:_
 Run httpd -v in your terminal.
+
 
 ** Download Links:**
 _Apache 2.4.63:_
