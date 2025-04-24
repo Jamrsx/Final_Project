@@ -7,9 +7,11 @@ use Illuminate\Database\Eloquent\Model;
 class instructor extends Model
 {
     protected $table = 'instructor';
+    protected $primaryKey = 'instructor_id';
 
     protected $fillable = [
         'instructor_id',
+        'lname',
         'fname',
         'email',
         'phone',

@@ -9,13 +9,13 @@ class StudentDetails extends Model
     protected $table = 'student_details';
 
     protected $fillable = [
-        'studentId',
+        'student_id',
         'lname',
         'fname',
         'mname',
         'suffix',
         'email',
-        'phone',
+        'Phone_number',
         'gender',
         'status',
     ];

@@ -9,7 +9,7 @@ class StudentAcc extends Model
     protected $table = 'student_acc';
 
     protected $fillable = [
-        'studentId',
+        'student_id',
         'password',
         'status',
     ];
