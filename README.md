@@ -17,9 +17,11 @@ Run httpd -v in your terminal.
 
 ** Download Links:**
 _Apache 2.4.63:_
-**64-bit version (Recommended):**  httpd-2.4.63-250207-win64-VS17.zip   
+**64-bit version (Recommended):**  httpd-2.4.63-250207-win64-VS17.zip 
+https://www.apachelounge.com/download/VS17/binaries/httpd-2.4.63-250207-win64-VS17.zip
 
-**32-bit version (For some devices):**  httpd-2.4.63-250207-win32-vs17.zip   
+**32-bit version (For some devices):**  httpd-2.4.63-250207-win32-vs17.zip 
+https://www.apachelounge.com/download/vs17/binaries/httpd-2.4.63-250207-win32-vs17.zip
 
 **PHP 8.3:**
 https://windows.php.net/downloads/releases/php-8.3.20-Win32-vs16-x64.zip
